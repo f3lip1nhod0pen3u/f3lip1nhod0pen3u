@@ -12,5 +12,4 @@
 
 
 
-
-![]()http://aminoapps.com/p/vozkkw
+![image](https://github.com/user-attachments/assets/30a73e57-acac-4be5-bad9-0283ba24bda5)
