@@ -1,12 +1,7 @@
-- 👋 ola sou Brayan
-- 👀 estou enteresado em viver a vida do meu jeito
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-f3lip1nhod0pen3u/f3lip1nhod0pen3u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Ola sou Brayan.
+- 👀 Estou enteresado em: viver a vida do meu jeito.
+- 🌱 Atualmente estou estudo sobre: o sentido da vida.
+- 💞️ Proucuro ajudarno posivel.
+- 📫 Meu meio de contato : ram0s_brayan.
+- 😄 pronomes: Home macho bruto e sistematico.
+- ⚡ Curiosidade: Aprendo rapido coisas do meu emterese.
