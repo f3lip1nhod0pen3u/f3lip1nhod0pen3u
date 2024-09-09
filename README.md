@@ -5,3 +5,12 @@
 - 📫 Meu meio de contato : ram0s_brayan.
 - 😄 pronomes: Home macho bruto e sistematico.
 - ⚡ Curiosidade: Aprendo rapido coisas do meu enterese.
+
+
+
+
+
+
+
+
+![]http://aminoapps.com/p/vozkkw
